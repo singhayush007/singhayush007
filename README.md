@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **ayushsingh24958@gmail.com**
 
-- ⚡ Fun fact **I love listening songs**
+- ⚡ Fun fact **I'm funny**
 
 <h3 align="left">Connect with me:</h3>
 
