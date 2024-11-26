@@ -23,19 +23,6 @@
 - ⚡ Fun fact **I'm funny**
 
 <h3 align="left">Connect with me:</h3>
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="max-width: 60%;">
-    <ul>
-      <li>🔭 I’m currently working on <strong>Doctor-Appointment-Booking-Web</strong></li>
-      <li>🌱 I’m currently learning <strong>DSA in C++</strong></li>
-      <li>👯 I’m looking to collaborate on <strong>Full Stack Projects</strong></li>
-      <li>💬 Ask me about <strong>Full Stack Development</strong></li>
-      <li>📫 How to reach me <strong>ayushsingh24958@gmail.com</strong></li>
-      <li>⚡ Fun fact <strong>I love listening songs</strong></li>
-    </ul> 
-    
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ayusxxxx_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayusxxxx_1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/ayush-singh-184562159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ayush-singh-184562159" height="30" width="40" /></a>
