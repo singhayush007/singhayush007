@@ -11,9 +11,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=singhayush007&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://twitter.com/ayusxxxx_1" target="blank">
-    <img src="https://img.shields.io/twitter/follow/ayusxxxx_1?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
+ 
 </p>
 
 ---
