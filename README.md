@@ -69,3 +69,9 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhayush007&" alt="GitHub Streak" />
 </p>
+
+----
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2M3Y2Npcmw1M3Z1dmhyN2JwM2lwM2N6ZGE2a2VkazNvNjI5aGdpMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT1XGHekJOT3v6jN8A/giphy.webp" alt="Thank You GIF" />
+</p>
