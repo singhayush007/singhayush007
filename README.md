@@ -93,15 +93,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/singhayush007/singhayush007/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/singhayush007/singhayush007/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/singhayush007/singhayush007/output/github-contribution-grid-snake.svg">
-</picture>
-
----
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2M3Y2Npcmw1M3Z1dmhyN2JwM2lwM3N6ZGE2a2VkazNvNjI5aGdpMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT1XGHekJOT3v6jN8A/giphy.webp" alt="Thank You GIF" width="300" />
