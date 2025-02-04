@@ -99,3 +99,9 @@
 </p>
 
 <h3 align="center">Thank you for visiting my profile! Let's connect and create amazing things together! 😊</h3>
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/singhayush007/singhayush007/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
