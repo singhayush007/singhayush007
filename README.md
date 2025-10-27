@@ -76,7 +76,7 @@
 ---
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/xT1XGHekJOT3v6jN8A/giphy.gif" alt="Thank You GIF" width="300" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzFzbTU2c2h2bW12djVsbnRvbTV4a3g1ZjFiaDNicGw0NmM2djA2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/COYGe9rZvfiaQ/giphy.gif" alt="Thank You GIF" width="300" />
 </p>
 
 <h3 align="center">✨ Thanks for stopping by! Let’s connect & build something amazing together. ✨</h3>
