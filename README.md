@@ -18,14 +18,14 @@
 
 ### 💫 About Me
 
-- 🔭 Currently working on **Doctor Appointment Booking Web App**  
-- 🌱 Exploring **MERN Stack** and **Generative AI**  
-- 💡 Passionate about building intelligent, user-focused web solutions  
-- 👯 Open to collaborate on **innovative full stack projects**  
-- 💬 Ask me about **React, Node.js, MongoDB, or AI integrations**  
-- 📫 Reach out: **ayushsingh24958@gmail.com**  
-- ⚡ Fun fact: *I code with a smile & debug with coffee ☕*  
-
+- 🔭 Developing interactive web experiences using **MERN & Gen AI**
+- 🌱 Expanding expertise in **AI integrations** and modern frameworks
+- 💡 Passionate about clean design, efficient code, and meaningful impact
+- 👯 Open for collaboration on **next-gen web projects**
+- 💬 Ask me about **React.js, Node.js, or AI workflows**
+- 📫 Reach out: **ayushsingh24958@gmail.com**
+- ⚡ Fun fact: *Simplicity is my favorite feature.*
+ 
 ---
 
 ### 🌐 Connect With Me
