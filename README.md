@@ -23,7 +23,7 @@
 - 💡 Passionate about clean design, efficient code, and meaningful impact
 - 👯 Open for collaboration on **next-gen web projects**
 - 💬 Ask me about **React.js, Node.js, or AI workflows**
-- 📫 Reach out: **ayushsingh24958@gmail.com**
+- 📫 Reach out: **ayushfullstack@gmail.com**
 - ⚡ Fun fact: *Simplicity is my favorite feature.*
  
 ---
