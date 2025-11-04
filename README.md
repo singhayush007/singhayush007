@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">👋 Hey, I'm <span style="color:#00BFFF;">Ayush Singh</span></h1>
+<h1 align="center">👋 Hey, I'm <font color="#00BFFF">Ayush Singh</font></h1>
 <h3 align="center">🚀 Full Stack Developer | MERN Stack & Generative AI Enthusiast | India 🇮🇳</h3>
 
 <p align="center">
@@ -18,14 +18,14 @@
 
 ### 💫 About Me
 
-- 🔭 Developing interactive web experiences using **MERN & Gen AI**
-- 🌱 Expanding expertise in **AI integrations** and modern frameworks
-- 💡 Passionate about clean design, efficient code, and meaningful impact
-- 👯 Open for collaboration on **next-gen web projects**
-- 💬 Ask me about **React.js, Node.js, or AI workflows**
+- 🔭 Developing interactive web experiences using **MERN** & **Gen AI**
+- 🌱 Expanding expertise in **AI Integrations** and **Modern Frameworks**
+- 💡 Passionate about **clean design**, **efficient code**, and **meaningful impact**
+- 👯 Open for collaboration on **Next-gen Web Projects**
+- 💬 Ask me about **React.js**, **Node.js**, or **AI Workflows**
 - 📫 Reach out: **ayushfullstack@gmail.com**
-- ⚡ Fun fact: *Simplicity is my favorite feature.*
- 
+- ⚡ Fun fact: *Simplicity is my favorite feature!*
+
 ---
 
 ### 🌐 Connect With Me
@@ -41,7 +41,7 @@
 ### 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,redux,nextjs,bootstrap,tailwind,postman,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,redux,bootstrap,tailwind,git,github,vscode,postman,cloudinary,gcp&theme=dark" />
 </p>
 
 ---
@@ -49,8 +49,8 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=singhayush007&show_icons=true&theme=radical" alt="Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhayush007&layout=compact&theme=radical" alt="Languages" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=singhayush007&show_icons=true&theme=radical" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhayush007&layout=compact&theme=radical" alt="Languages" />
 </p>
 
 <p align="center">
@@ -75,8 +75,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzFzbTU2c2h2bW12djVsbnRvbTV4a3g1ZjFiaDNicGw0NmM2djA2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/COYGe9rZvfiaQ/giphy.gif" alt="Thank You GIF" width="300" />
-</p>
-
-<h3 align="center">✨ Thanks for stopping by! Let’s connect & build something amazing together. ✨</h3>
+<p align="center">⭐️ From <a href="https://github.com/singhayush007">Ayush Singh</a> with ❤️</p>
