@@ -55,6 +55,23 @@
 
 ---
 
+
+### 🧰 Tech Stack & Tools  
+
+<div align="center">
+
+| **Category** | **Technologies / Tools (with Icons & Names)** |
+|---------------|----------------------------------------------|
+| 🧩 **Frontend** | <img src="https://skillicons.dev/icons?i=html" width="25"/> **HTML** &nbsp; <img src="https://skillicons.dev/icons?i=css" width="25"/> **CSS** &nbsp; <img src="https://skillicons.dev/icons?i=js" width="25"/> **JavaScript** &nbsp; <img src="https://skillicons.dev/icons?i=react" width="25"/> **React** &nbsp; <img src="https://skillicons.dev/icons?i=nextjs" width="25"/> **Next.js** &nbsp; <img src="https://skillicons.dev/icons?i=tailwind" width="25"/> **Tailwind CSS** &nbsp; <img src="https://skillicons.dev/icons?i=bootstrap" width="25"/> **Bootstrap** |
+| ⚙️ **Backend** | <img src="https://skillicons.dev/icons?i=nodejs" width="25"/> **Node.js** &nbsp; <img src="https://skillicons.dev/icons?i=express" width="25"/> **Express.js** &nbsp; <img src="https://skillicons.dev/icons?i=typescript" width="25"/> **TypeScript** &nbsp; <img src="https://skillicons.dev/icons?i=websocket" width="25"/> **WebSocket** |
+| 🗄️ **Database** | <img src="https://skillicons.dev/icons?i=mongodb" width="25"/> **MongoDB** &nbsp; <img src="https://skillicons.dev/icons?i=mysql" width="25"/> **MySQL** &nbsp; <img src="https://skillicons.dev/icons?i=redis" width="25"/> **Redis** |
+| ☁️ **Cloud / DevOps** | <img src="https://skillicons.dev/icons?i=aws" width="25"/> **AWS** &nbsp; <img src="https://skillicons.dev/icons?i=docker" width="25"/> **Docker** &nbsp; <img src="https://skillicons.dev/icons?i=kubernetes" width="25"/> **Kubernetes** &nbsp; <img src="https://skillicons.dev/icons?i=googlecloud" width="25"/> **Google Cloud** &nbsp; <img src="https://skillicons.dev/icons?i=cloudflare" width="25"/> **Cloudflare** |
+| 🧰 **Tools / Others** | <img src="https://skillicons.dev/icons?i=git" width="25"/> **Git** &nbsp; <img src="https://skillicons.dev/icons?i=github" width="25"/> **GitHub** &nbsp; <img src="https://skillicons.dev/icons?i=vscode" width="25"/> **VS Code** &nbsp; <img src="https://skillicons.dev/icons?i=postman" width="25"/> **Postman** &nbsp; <img src="https://skillicons.dev/icons?i=linux" width="25"/> **Linux** |
+
+</div>
+
+---
+
 ### 📊 GitHub Analytics
 
 <p align="center">
