@@ -52,24 +52,6 @@
 
 </div>
 
-
----
-### 🧰 Tech Stack & Tools  
-
-<div align="center">
-
-| **Category** | **Technologies / Tools** |
-|---------------|---------------------------|
-| 🧩 **Frontend** | <div align="center"> <img src="https://skillicons.dev/icons?i=html" width="50"/><br>HTML &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=css" width="50"/><br>CSS &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=js" width="50"/><br>JavaScript &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=react" width="50"/><br>React &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=nextjs" width="50"/><br>Next.js &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br>Tailwind CSS &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=bootstrap" width="50"/><br>Bootstrap </div> |
-| ⚙️ **Backend** | <div align="center"> <img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>Node.js &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=express" width="50"/><br>Express.js &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=typescript" width="50"/><br>TypeScript &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=websocket" width="50"/><br>WebSocket </div> |
-| 🗄️ **Database** | <div align="center"> <img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br>MongoDB &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=mysql" width="50"/><br>MySQL &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=redis" width="50"/><br>Redis </div> |
-| ☁️ **Cloud / DevOps** | <div align="center"> <img src="https://skillicons.dev/icons?i=aws" width="50"/><br>AWS &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=docker" width="50"/><br>Docker &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=kubernetes" width="50"/><br>Kubernetes &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=googlecloud" width="50"/><br>Google Cloud &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=cloudflare" width="50"/><br>Cloudflare </div> |
-| 🧰 **Tools / Others** | <div align="center"> <img src="https://skillicons.dev/icons?i=git" width="50"/><br>Git &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=github" width="50"/><br>GitHub &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>VS Code &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=postman" width="50"/><br>Postman &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=linux" width="50"/><br>Linux </div> |
-
-</div>
-
-
-
 ---
 
 ### 📊 GitHub Analytics
