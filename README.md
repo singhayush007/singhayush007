@@ -68,15 +68,6 @@
 
 ---
 
-### 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=singhayush007&theme=radical&column=6&no-frame=true" />
-</p>
-
-
----
-
 ### 📈 Contribution Graph
 
 <p align="center">
