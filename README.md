@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" alt="Banner" width="80%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" alt="Banner" width="100%"/>
 </p>
 
 
@@ -71,8 +71,9 @@
 ### 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=singhayush007&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=singhayush007&theme=radical&column=6&no-frame=true" />
 </p>
+
 
 ---
 
