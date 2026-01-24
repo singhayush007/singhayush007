@@ -17,17 +17,19 @@
 ---
 
 <h2 align="center">💫 About Me</h2>
-```js
+
 const aboutMe = {
   name: "Ayush Singh",
   role: "Full Stack Developer",
   stack: ["MERN Stack", "Next.js", "Generative AI"],
   interests: ["AI Integrations", "Clean Architecture", "System Design"],
+  currentlyLearning: ["Advanced AI Workflows", "Cloud & DevOps"],
   openFor: ["Collaborations", "Open Source", "Freelance"],
-  askMeAbout: ["React.js", "Node.js", "Next.js", "AI Workflows"],
+  askMeAbout: ["React.js", "Node.js", "Next.js"],
   contact: "ayushfullstack@gmail.com",
   funFact: "Simplicity is my favorite feature"
 };
+
 
 ---
 
