@@ -18,15 +18,16 @@
 
 <h2 align="center">💫 About Me</h2>
 
-<p align="center">
-🔭 Developing interactive web experiences using <b>MERN</b> & <b>Gen AI</b><br/>
-🌱 Expanding expertise in <b>AI Integrations</b> and <b>Modern Frameworks</b><br/>
-💡 Passionate about <b>clean design</b>, <b>efficient code</b>, and <b>meaningful impact</b><br/>
-👯 Open for collaboration on <b>Next-gen Web Projects</b><br/>
-💬 Ask me about <b>React.js</b>, <b>Node.js</b>, or <b>AI Workflows</b><br/>
-📫 Reach out: <b>ayushfullstack@gmail.com</b><br/>
-⚡ Fun fact: <i>Simplicity is my favorite feature!</i>
-</p>
+const aboutMe = {
+  name: "Ayush Singh",
+  role: "Full Stack Developer",
+  stack: ["MERN Stack", "Next.js", "Generative AI"],
+  interests: ["AI Integrations", "Clean Architecture", "System Design"],
+  openFor: ["Collaborations", "Open Source", "Freelance"],
+  askMeAbout: ["React.js", "Node.js", "Next.js", "AI Workflows"],
+  contact: "ayushfullstack@gmail.com",
+  funFact: "Simplicity is my favorite feature"
+};
 
 ---
 
