@@ -52,7 +52,7 @@ Hobbies: [
   "Exploring New Developer Tools"
 ]
 },
-export default profile;
+export default Profile;
 ```
 
 ---
