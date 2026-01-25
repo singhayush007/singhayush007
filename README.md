@@ -34,7 +34,7 @@ const Profile = {
   Current_Role: "Software Developer",
 
 Education: [
-  "Bachelor of Technology (Electronics and Communication Engineering)"
+  "Bachelor of Technology (ECE)"
 ],
 
 Fields_of_Interest: [
