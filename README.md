@@ -89,7 +89,9 @@ export default profile;
 ---
 
 
-## 🧰 Tech Stack & Tools
+<h2 align="center">🧰 Tech Stack & Tools</h2>
+
+<div align="center">
 
 | Category | Technologies |
 |--------|--------------|
@@ -98,6 +100,8 @@ export default profile;
 | 🗄️ Database | ![](https://skillicons.dev/icons?i=mongodb,mysql,redis) |
 | ☁️ Cloud / DevOps | ![](https://skillicons.dev/icons?i=aws,docker,kubernetes,googlecloud,cloudflare) |
 | 🧰 Tools | ![](https://skillicons.dev/icons?i=git,github,vscode,postman,linux) |
+
+</div>
 
 ---
 
