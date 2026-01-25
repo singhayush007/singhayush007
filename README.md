@@ -25,8 +25,8 @@
 ```js
 const Profile = {
   Name: "Ayush Singh",
-  located_in: "India",
-  current_role: "Software Developer",
+  Located_In: "India",
+  Current_Role: "Software Developer",
 
 
   Education: [
@@ -40,7 +40,7 @@ const Profile = {
     "Cloud & DevOps"
   ],
 
-hobbies: [
+Hobbies: [
   "Coding & Building Side Projects",
   "Staying Updated with Technology Trends",
   "Reading Tech News & Blogs",
