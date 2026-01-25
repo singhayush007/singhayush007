@@ -15,7 +15,7 @@
 <p align="center">
   <img
     src="https://i.pinimg.com/originals/32/1c/26/321c26929da73c15071c70374db62d89.gif"
-    style="width:100%; max-width:420px;"
+    style="width:100%; max-width:420px; object-fit:cover;"
     alt="Coding"
   />
 </p>
