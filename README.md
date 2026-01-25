@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="65%" />
+  <img
+    src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif"
+    style="width:100%;"
+    alt="Banner"
+  />
 </p>
 
 <h1 align="center">👋 Hey, I'm Ayush Singh</h1>
@@ -10,7 +14,8 @@
 <p align="center">
   <img
     src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
-    style="width:65%; max-width:520px;"
+    style="width:100%; max-width:420px;"
+    alt="Coding"
   />
 </p>
 
