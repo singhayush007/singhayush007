@@ -85,15 +85,31 @@ export default profile;
 </div>
 
 ---
+<h2 align="center">📊 GitHub Analytics</h2>
 
-## 📊 GitHub Analytics
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=singhayush007&show_icons=true&theme=radical" 
+    alt="GitHub Stats"
+  />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=singhayush007&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=singhayush007&layout=compact&theme=radical)
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhayush007&layout=compact&theme=radical" 
+    alt="Top Languages"
+  />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=singhayush007&theme=radical)
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=singhayush007&theme=radical" 
+    alt="GitHub Streak"
+  />
+</p>
 
 ---
+
 
 ## 📈 Contribution Graph
 
