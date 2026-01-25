@@ -34,26 +34,24 @@ const Profile = {
   Located_In: "India",
   Current_Role: "Software Developer",
 
-
-  Education: [
+Education: [
   "Bachelor of Technology (Electronics and Communication Engineering)"
 ],
 
-  Fields_of_Interest: [
+Fields_of_Interest: [
     "Web Development",
     "Generative AI",
     "System Design",
     "Cloud & DevOps"
-  ],
+],
 
 Hobbies: [
   "Coding & Building Side Projects",
   "Staying Updated with Technology Trends",
   "Reading Tech News & Blogs",
   "Exploring New Developer Tools"
-],
-};
-
+]
+},
 export default profile;
 ```
 
