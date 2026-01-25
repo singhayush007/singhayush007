@@ -23,48 +23,29 @@
 ## 🧑‍💻 About Me
 
 ```js
-const profile = {
-  name: "Ayush Singh",
+const Profile = {
+  Name: "Ayush Singh",
   located_in: "India",
-  current_role: "Full Stack Developer",
+  current_role: "Software Developer",
 
-  education: [
-    "Full Stack Development (MERN Stack)",
-    "Self-taught & Project-based Learning"
-  ],
 
-  fields_of_interest: [
+  Education: [
+  "Bachelor of Technology (Electronics and Communication Engineering)"
+],
+
+  Fields_of_Interest: [
     "Web Development",
     "Generative AI",
     "System Design",
     "Cloud & DevOps"
   ],
 
-  technical_background: [
-    "MERN Stack Developer",
-    "Next.js Developer",
-    "AI Integrations using OpenAI APIs",
-    "Backend Development with Node.js"
-  ],
-
-  currently_learning: [
-    "Advanced AI Workflows",
-    "Cloud Architecture",
-    "DevOps Fundamentals"
-  ],
-
-  goals_2025: [
-    "Build 25+ real-world projects",
-    "Master MERN + GenAI",
-    "Learn DevOps & System Design"
-  ],
-
-  hobbies: [
-    "Coding",
-    "Exploring new tech",
-    "Designing clean UIs",
-    "Learning through building"
-  ]
+hobbies: [
+  "Coding & Building Side Projects",
+  "Staying Updated with Technology Trends",
+  "Reading Tech News & Blogs",
+  "Exploring New Developer Tools"
+],
 };
 
 export default profile;
