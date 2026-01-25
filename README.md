@@ -1,124 +1,106 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="70%" alt="Banner" />
-</p>
+![Banner](https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif)
 
-<h1 align="center">👋 Hey, I'm Ayush Singh</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Stack & Generative AI Enthusiast | India 🇮🇳</h3>
+# 👋 Hey, I'm Ayush Singh
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="320" alt="Coding" />
-</p>
+### 🚀 Full Stack Developer | MERN Stack & Generative AI Enthusiast | India 🇮🇳
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=singhayush007&label=Profile%20Views&color=blueviolet&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/singhayush007?label=Followers&style=social" />
-</p>
+![Coding](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
+![Profile Views](https://komarev.com/ghpvc/?username=singhayush007&label=Profile%20Views&color=blueviolet&style=flat-square)
+![Followers](https://img.shields.io/github/followers/singhayush007?label=Followers&style=social)
 
 ---
 
-<h2 align="center">💫 About Me</h2>
+## 🧑‍💻 About Me and My Interests
 
-const aboutMe = {
+```js
+const profile = {
   name: "Ayush Singh",
-  role: "Full Stack Developer",
+  located_in: "India",
+  current_role: "Full Stack Developer",
 
-  stack: [
-    "MERN Stack",
-    "Next.js",
-    "Generative AI"
+  education: [
+    "Full Stack Development (MERN Stack)",
+    "Self-taught & Project-based Learning"
   ],
 
-  interests: [
-    "AI Integrations",
-    "Clean Architecture",
-    "System Design"
-  ],
-
-  currentlyLearning: [
-    "Advanced AI Workflows",
+  fields_of_interest: [
+    "Web Development",
+    "Generative AI",
+    "System Design",
     "Cloud & DevOps"
   ],
 
-  openFor: [
-    "Collaborations",
-    "Open Source",
-    "Freelance"
+  technical_background: [
+    "MERN Stack Developer",
+    "Next.js Developer",
+    "AI Integrations using OpenAI APIs",
+    "Backend Development with Node.js"
   ],
 
-  askMeAbout: [
-    "React.js",
-    "Node.js",
-    "Next.js"
+  currently_learning: [
+    "Advanced AI Workflows",
+    "Cloud Architecture",
+    "DevOps Fundamentals"
   ],
 
-  contact: "ayushfullstack@gmail.com",
-  funFact: "Simplicity is my favorite feature"
+  goals_2025: [
+    "Build 25+ real-world projects",
+    "Master MERN + GenAI",
+    "Learn DevOps & System Design"
+  ],
+
+  hobbies: [
+    "Coding",
+    "Exploring new tech",
+    "Designing clean UIs",
+    "Learning through building"
+  ]
 };
 
-
-
----
-
-<h2 align="center">🌐 Connect With Me</h2>
-
-<p align="center">
-  <a href="https://x.com/xayuxh">
-    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ayush-singh-184562159">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:ayushfullstack@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+export default profile;
+```
 
 ---
 
-<h2 align="center">🧰 Tech Stack & Tools</h2>
+## 🌐 Connect With Me
 
-<div align="center">
+[![X (Twitter)](https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/xayuxh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-singh-184562159)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushfullstack@gmail.com)
+
+---
+
+## 🧰 Tech Stack & Tools
 
 | Category | Technologies |
-|--------|-------------|
-| 🧩 Frontend | <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" /> |
-| ⚙️ Backend | <img src="https://skillicons.dev/icons?i=nodejs,express,typescript,websocket" /> |
-| 🗄️ Database | <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" /> |
-| ☁️ Cloud / DevOps | <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,googlecloud,cloudflare" /> |
-| 🧰 Tools | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" /> |
-
-</div>
+|--------|--------------|
+| 🧩 Frontend | ![](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap) |
+| ⚙️ Backend | ![](https://skillicons.dev/icons?i=nodejs,express,typescript,websocket) |
+| 🗄️ Database | ![](https://skillicons.dev/icons?i=mongodb,mysql,redis) |
+| ☁️ Cloud / DevOps | ![](https://skillicons.dev/icons?i=aws,docker,kubernetes,googlecloud,cloudflare) |
+| 🧰 Tools | ![](https://skillicons.dev/icons?i=git,github,vscode,postman,linux) |
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=singhayush007&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhayush007&layout=compact&theme=radical" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=singhayush007&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=singhayush007&layout=compact&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhayush007&theme=radical" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=singhayush007&theme=radical)
 
 ---
 
-<h2 align="center">📈 Contribution Graph</h2>
+## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=singhayush007&theme=react-dark" />
-</p>
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=singhayush007&theme=react-dark)
 
 ---
 
-<p align="center">
-⭐️ From <a href="https://github.com/singhayush007">Ayush Singh</a> with ❤️
-</p>
+⭐️ From [Ayush Singh](https://github.com/singhayush007) with ❤️
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="320" /><br/>
-  <b>Keep Learning 🚀 Keep Building!</b>
-</p>
+![Keep Coding](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
 
+**Keep Learning 🚀 Keep Building!**
 
