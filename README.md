@@ -1,10 +1,16 @@
-![Banner](https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="65%" />
+</p>
 
-# 👋 Hey, I'm Ayush Singh
+<h1 align="center">👋 Hey, I'm Ayush Singh</h1>
+<h3 align="center">
+🚀 Full Stack Developer | MERN Stack & Generative AI Enthusiast | India 🇮🇳
+</h3>
 
-### 🚀 Full Stack Developer | MERN Stack & Generative AI Enthusiast | India 🇮🇳
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300" />
+</p>
 
-![Coding](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=singhayush007&label=Profile%20Views&color=blueviolet&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/singhayush007?label=Followers&style=social)
