@@ -13,7 +13,7 @@
 
 <p align="center">
   <img
-    src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif""
+    src="https://i.pinimg.com/originals/32/1c/26/321c26929da73c15071c70374db62d89.gif"
     style="width:100%; max-width:420px;"
     alt="Coding"
   />
