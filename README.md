@@ -56,7 +56,7 @@ Hobbies: [
   "Reading Tech News & Blogs",
   "Exploring New Developer Tools"
 ]
-},
+   },
 export default Profile;
 ```
 
