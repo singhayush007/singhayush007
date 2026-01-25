@@ -12,12 +12,15 @@
 </p>
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=singhayush007&label=Profile%20Views&color=blueviolet&style=flat-square)
-![Followers](https://img.shields.io/github/followers/singhayush007?label=Followers&style=social)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=singhayush007&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/singhayush007?label=Followers&style=social" alt="Followers" />
+</p>
+
 
 ---
 
-## 🧑‍💻 About Me and My Interests
+## 🧑‍💻 About Me
 
 ```js
 const profile = {
