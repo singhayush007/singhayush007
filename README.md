@@ -72,13 +72,22 @@ export default profile;
 
 ---
 
-## 🌐 Connect With Me
+<h2 align="center">🌐 Connect With Me</h2>
 
-[![X (Twitter)](https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/xayuxh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-singh-184562159)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushfullstack@gmail.com)
+<p align="center">
+  <a href="https://x.com/xayuxh">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+  <a href="https://www.linkedin.com/in/ayush-singh-184562159">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ayushfullstack@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 ---
+
 
 ## 🧰 Tech Stack & Tools
 
@@ -107,9 +116,15 @@ export default profile;
 
 ---
 
-⭐️ From [Ayush Singh](https://github.com/singhayush007) with ❤️
+<p align="center">
+  ⭐️ From <a href="https://github.com/singhayush007">Ayush Singh</a> with ❤️
+</p>
 
-![Keep Coding](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="320" alt="Keep Coding" />
+</p>
 
-**Keep Learning 🚀 Keep Building!**
+<p align="center">
+  <b>Keep Learning 🚀 Keep Building!</b>
+</p>
 
