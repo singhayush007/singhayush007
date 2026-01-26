@@ -65,6 +65,9 @@ export default Profile;
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
+  <a href="https://ayushsinghfullstackportfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website" />
+  </a>
   <a href="https://x.com/xayuxh">
     <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
   </a>
@@ -75,6 +78,7 @@ export default Profile;
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
+
 
 ---
 
