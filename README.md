@@ -17,11 +17,10 @@
 <p align="center">
   <img
     src="https://i.pinimg.com/originals/32/1c/26/321c26929da73c15071c70374db62d89.gif"
-    style="width:100%; max-width:420px; object-fit:cover;"
+    width="420"
     alt="Coding"
   />
 </p>
-
 
 
 
@@ -119,17 +118,10 @@ export default Profile;
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=singhayush007&theme=radical" 
+    src="https://streak-stats.demolab.com/?user=singhayush007&theme=radical" 
     alt="GitHub Streak"
   />
 </p>
-
----
-
-
-## 📈 Contribution Graph
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=singhayush007&theme=react-dark)
 
 ---
 
@@ -143,7 +135,7 @@ export default Profile;
 
 ---
 
-<h2 align="center">💡 Quote of the Day</h2>
+<h2 align="center"> Quote of the Day</h2>
 
 <p align="center">
   <img 
@@ -154,7 +146,7 @@ export default Profile;
 
 ---
 
-<h2 align="center"> Dev Joke of the Day</h2>
+<h2 align="center"> Joke of the Day</h2>
 
 <p align="center">
   <img 
@@ -164,15 +156,6 @@ export default Profile;
 </p>
 
 ---
-
-
-
-## 📈 Contribution Graph
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=singhayush007&theme=react-dark)
-
----
-
 
 <p align="center">
   <b>Keep Learning 🚀 Keep Building!</b>
