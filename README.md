@@ -139,6 +139,38 @@ export default Profile;
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="480" alt="Keep Coding" />
 </p>
 
+---
+
+<h2 align="center">💡 Quote of the Day</h2>
+
+<p align="center">
+  <img 
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" 
+    alt="Quote of the Day"
+  />
+</p>
+
+---
+
+<h2 align="center"> Dev Joke of the Day</h2>
+
+<p align="center">
+  <img 
+    src="https://readme-jokes.vercel.app/api?theme=radical" 
+    alt="Dev Joke"
+  />
+</p>
+
+---
+
+
+
+## 📈 Contribution Graph
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=singhayush007&theme=react-dark)
+
+---
+
 
 <p align="center">
   <b>Keep Learning 🚀 Keep Building!</b>
