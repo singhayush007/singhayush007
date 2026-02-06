@@ -1,12 +1,13 @@
 <p align="center">
   <img 
-    src="https://camo.githubusercontent.com/22950cc19c1ca759b60682030cbb206c6c4f7aaa1ed73c3419dfc9d83bf7b971/68747470733a2f2f6361707375"
+    src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif"
+    width="600"
+    height="200"
     alt="Banner"
   />
 </p>
 
-
-
+--- 
 
 <h1 align="center">👋 Hey, I'm Ayush Singh</h1>
 <h3 align="center">
@@ -20,8 +21,6 @@
     alt="Coding"
   />
 </p>
-
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=singhayush007&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
