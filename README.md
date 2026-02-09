@@ -16,7 +16,7 @@
 
 <p align="center">
   <img
-    src="https://i.pinimg.com/originals/32/1c/26/321c26929da73c15071c70374db62d89.gif"
+    src="https://pin.it/3Y5f0FqIX"
     width="420"
     alt="Coding"
   />
