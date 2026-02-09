@@ -9,9 +9,9 @@
 
 --- 
 
-<h1 align="center">👋 Hey, I'm Ayush Singh</h1>
+<h1 align="center">👋 Welcome to My GitHub Profile!</h1>
 <h3 align="center">
-🚀 Full Stack Developer | MERN Stack & Generative AI Enthusiast | India 🇮🇳
+🚀 Full Stack Developer | MERN Stack & Generative AI Enthusiast
 </h3>
 
 <p align="center">
