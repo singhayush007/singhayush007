@@ -16,7 +16,7 @@
 
 <p align="center">
   <img
-    src="https://pin.it/3Y5f0FqIX"
+    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTdwMzRlYWZ4eDNrc293aHl3andqM3BlMGxuZ2ZlN2N0bm5ycHFoMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aHiv481xki1WdhQonS/giphy.gif"
     width="420"
     alt="Coding"
   />
