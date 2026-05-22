@@ -7,7 +7,7 @@
   />
 </p>
 
---- 
+---
 
 <h1 align="center">👋 Welcome to My GitHub Profile!</h1>
 <h3 align="center">
@@ -27,10 +27,9 @@
   <img src="https://img.shields.io/github/followers/singhayush007?label=Followers&style=social" alt="Followers" />
 </p>
 
-
 ---
 
-## <h2 align="center">🧑🏼‍💻 About Me</h2>
+<h2 align="center">🧑🏼‍💻 About Me</h2>
 
 ```js
 const Profile = {
@@ -38,26 +37,26 @@ const Profile = {
   Located_In: "India",
   Current_Role: "Software Developer",
 
-Education: [
-  "Bachelor of Technology (ECE)"
-],
+  Education: [
+    "Bachelor of Technology (ECE)"
+  ],
 
-Fields_of_Interest: [
+  Fields_of_Interest: [
     "Web Development",
     "Generative AI",
     "System Design",
     "Cloud & DevOps"
-],
+  ],
 
-Hobbies: [
-  "Coding & Building Side Projects",
-  "Staying Updated with Technology Trends",
-  "Reading Tech News & Blogs",
-  "Exploring New Developer Tools"
-]
-   },
+  Hobbies: [
+    "Coding & Building Side Projects",
+    "Staying Updated with Technology Trends",
+    "Reading Tech News & Blogs",
+    "Exploring New Developer Tools"
+  ]
+};
 export default Profile;
-` ` `
+```
 
 ---
 
@@ -78,10 +77,7 @@ export default Profile;
   </a>
 </p>
 
-
-
 ---
-
 
 <h2 align="center">🧰 Tech Stack & Tools</h2>
 
@@ -140,7 +136,7 @@ export default Profile;
 
 ---
 
-<h2 align="center"> Quote of the Day</h2>
+<h2 align="center">Quote of the Day</h2>
 
 <p align="center">
   <img 
@@ -151,7 +147,7 @@ export default Profile;
 
 ---
 
-<h2 align="center"> Joke of the Day</h2>
+<h2 align="center">Joke of the Day</h2>
 
 <p align="center">
   <img 
@@ -165,5 +161,6 @@ export default Profile;
 <p align="center">
   <b>Keep Learning 🚀 Keep Building!</b>
 </p>
+
 
 
