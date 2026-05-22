@@ -57,7 +57,7 @@ Hobbies: [
 ]
    },
 export default Profile;
-```
+` ` `
 
 ---
 
@@ -98,11 +98,32 @@ export default Profile;
 </div>
 
 ---
-<h2 align="center">📊 GitHub Analytics</h2>
+
+<h2 align="center">📊 GitHub Insights</h2>
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=singhayush007&theme=radical" 
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=singhayush007&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true"
+    alt="GitHub Stats"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhayush007&layout=donut&theme=radical&hide_border=true&count_private=true"
+    alt="Top Languages"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singhayush007&theme=radical"
+    alt="Profile Details"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=singhayush007&theme=radical&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
@@ -144,4 +165,5 @@ export default Profile;
 <p align="center">
   <b>Keep Learning 🚀 Keep Building!</b>
 </p>
+
 
