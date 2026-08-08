@@ -7,14 +7,6 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTdwMzRlYWZ4eDNrc293aHl3andqM3BlMGxuZ2ZlN2N0bm5ycHFoMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aHiv481xki1WdhQonS/giphy.gif"
-    width="420"
-    alt="Coding"
-  />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=singhayush007&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/singhayush007?label=Followers&style=social" alt="Followers" />
 </p>
@@ -120,10 +112,6 @@ export default Profile;
 
 <p align="center">
   ⭐️ From <a href="https://github.com/singhayush007">Ayush Singh</a> with ❤️
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="480" alt="Keep Coding" />
 </p>
 
 ---
