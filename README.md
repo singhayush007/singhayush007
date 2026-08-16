@@ -1,18 +1,10 @@
 <p align="center">
-  <img 
-    src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif"
-    width="500"
-    height="200"
-    alt="Banner"
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ayush%20Singh&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Software%20Developer%20%7C%20Full%20Stack%20Engineer%20%7C%20GenAI%20Enthusiast&descAlignY=55&descSize=20"
+    width="100%"
+    alt="Header Banner"
   />
 </p>
-
----
-
-<h1 align="center">👋 Welcome to My GitHub Profile!</h1>
-<h3 align="center">
-🚀 Full Stack Developer | MERN Stack & Generative AI Enthusiast
-</h3>
 
 <p align="center">
   <img
@@ -160,4 +152,12 @@ export default Profile;
 
 <p align="center">
   <b>Keep Learning 🚀 Keep Building!</b>
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"
+    width="100%"
+    alt="Footer Banner"
+  />
 </p>
