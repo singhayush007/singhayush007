@@ -158,12 +158,12 @@ const ayush = {
 <p align="center">
   <img
     height="165em"
-    src="https://github-readme-stats.vercel.app/api?username=singhayush007&show_icons=true&theme=radical&hide_border=true&count_private=true"
+    src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=singhayush007&show_icons=true&theme=radical&hide_border=true&count_private=true"
     alt="GitHub Stats"
   />
   <img
     height="165em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhayush007&layout=compact&theme=radical&hide_border=true"
+    src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=singhayush007&layout=compact&theme=radical&hide_border=true"
     alt="Top Languages"
   />
 </p>
@@ -177,7 +177,7 @@ const ayush = {
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=singhayush007&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8"
+    src="https://github-trophies.vercel.app/?username=singhayush007&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8"
     alt="GitHub Trophies"
   />
 </p>
