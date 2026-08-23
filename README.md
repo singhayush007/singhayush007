@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20there,%20I'm%20Ayush%20Singh%20👋&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20%26%20GenAI%20Developer&descAlignY=55&descSize=20"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20there%2C%20I%27m%20Ayush%20Singh%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20%26%20GenAI%20Developer&descAlignY=55&descSize=20"
     width="100%"
     alt="Header Banner"
   />
@@ -48,47 +48,41 @@ const ayush = {
 
 ## 💼 Experience
 
-<table align="center">
-  <tr>
-    <th>Role</th>
-    <th>Company</th>
-    <th>Duration</th>
-    <th>Location</th>
-  </tr>
-  <tr>
-    <td>Software Developer</td>
-    <td><b>Torqis Horizons</b></td>
-    <td>Jan 2026 – Present</td>
-    <td>Remote</td>
-  </tr>
-  <tr>
-    <td>Software Trainee</td>
-    <td><b>Uncodemy</b></td>
-    <td>Apr 2025 – Dec 2025</td>
-    <td>Remote</td>
-  </tr>
-</table>
+<details>
+<summary><b>Software Developer @ Torqis Horizons</b> — Jan 2026 – Present · Remote</summary>
+<br/>
+
+- TODO: add 2–4 bullets on what you're building/owning at Torqis Horizons
+- TODO: mention the stack you work with day-to-day
+- TODO: any measurable impact (perf, users, features shipped)
+
+</details>
+
+<details>
+<summary><b>Software Trainee @ Uncodemy</b> — Apr 2025 – Dec 2025 · Remote</summary>
+<br/>
+
+- TODO: add 2–4 bullets on what you learned/built during the traineeship
+- TODO: mention key projects or modules you contributed to
+- TODO: any mentorship, certifications, or standout outcomes
+
+</details>
 
 ---
 
 ## 🧰 Tech Stack & Tools
 
-<p align="center">
-  <b>Frontend</b><br/>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css,figma" /><br/><br/>
-  <b>Backend</b><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" height="48"/><br/><br/>
-  <b>Databases</b><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" height="48"/><br/><br/>
-  <b>Tools & Platforms</b><br/>
-  <img src="https://skillicons.dev/icons?i=aws,git,github,docker,postman" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="48"/><br/><br/>
-  <b>AI-Assisted Dev</b><br/>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="48"/>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" height="48"/>
-</p>
+<div align="center">
+
+| Category | Technologies |
+|--------|--------------|
+| 🧩 Frontend | ![](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css,figma) |
+| ⚙️ Backend | ![](https://skillicons.dev/icons?i=nodejs,express) |
+| 🗄️ Database | ![](https://skillicons.dev/icons?i=mongodb,postgres,prisma) |
+| ☁️ Cloud / Tools | ![](https://skillicons.dev/icons?i=aws,git,github,docker,postman) |
+| 🤖 AI-Assisted Dev | ![](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white) |
+
+</div>
 
 ---
 
@@ -193,19 +187,6 @@ const ayush = {
 
 ---
 
-## 💬 What People Say
-
-> "Even as a junior developer, Ayush demonstrated exceptional ability in solving complex problems."
-> **— Snehank Singh**, Senior Software Engineer @ Uncodemy
-
-> "Ayush is a highly dependable developer with strong command over frontend and backend technologies."
-> **— Shoumik Sahu**, Analyst-Developer @ Brickred Systems India Pvt Ltd
-
-> "Working with Ayush has always been smooth and productive."
-> **— Mandeep Rana**, Backend Engineer @ Unicorn Techniks
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -256,4 +237,5 @@ const ayush = {
     alt="Footer Banner"
   />
 </p>
+
 
