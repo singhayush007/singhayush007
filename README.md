@@ -52,9 +52,11 @@ const ayush = {
 <summary><b>Software Developer @ Torqis Horizons</b> — Jan 2026 – Present · Remote</summary>
 <br/>
 
-- TODO: add 2–4 bullets on what you're building/owning at Torqis Horizons
-- TODO: mention the stack you work with day-to-day
-- TODO: any measurable impact (perf, users, features shipped)
+- Shipped MVP UI end-to-end from Figma designs to production-ready React components, owning the full frontend delivery.
+- Integrated RESTful APIs with JWT-based authentication, implementing error boundaries and loading states for a seamless user experience.
+- Reduced frontend load time by 35% through lazy loading and code-splitting strategies, improving Core Web Vitals scores.
+- Built a scalable reusable component library, eliminating redundant code and accelerating feature delivery across the product.
+- Implemented responsive, mobile-first layouts across all key screens, ensuring consistent UX across browsers and devices.
 
 </details>
 
@@ -62,9 +64,11 @@ const ayush = {
 <summary><b>Software Trainee @ Uncodemy</b> — Apr 2025 – Dec 2025 · Remote</summary>
 <br/>
 
-- TODO: add 2–4 bullets on what you learned/built during the traineeship
-- TODO: mention key projects or modules you contributed to
-- TODO: any mentorship, certifications, or standout outcomes
+- Delivered 3+ full-stack MERN applications over 9 months, covering end-to-end development from schema design to API integration.
+- Built RESTful APIs with JWT authentication, implementing secure user registration, login, and protected route handling.
+- Developed a capstone e-commerce app featuring product listings, cart management, and user authentication as the program's final project.
+- Implemented component-based React architecture and Git branching workflows across all projects for maintainable, scalable codebases.
+- Configured Node.js/Express backends with MongoDB Atlas, gaining hands-on experience with full project lifecycle management.
 
 </details>
 
