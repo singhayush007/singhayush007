@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20there%2C%20I%27m%20Ayush%20Singh%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20%26%20GenAI%20Developer&descAlignY=55&descSize=20"
+    src="./header-banner.svg"
     width="100%"
     alt="Header Banner"
   />
@@ -14,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=singhayush007&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/singhayush007?label=Followers&style=flat-square&color=blueviolet" alt="Followers" />
   <img src="https://img.shields.io/badge/Open%20to-Work-success?style=flat-square" alt="Open to Work" />
-  <a href="/resume/resume.pdf"><img src="https://img.shields.io/badge/Resume-View-orange?style=flat-square&logo=readdotcv&logoColor=white" alt="Resume" /></a>
+  <a href="https://ayushsinghfullstackportfolio.vercel.app/resume/resume.pdf"><img src="https://img.shields.io/badge/Resume-View-orange?style=flat-square&logo=readdotcv&logoColor=white" alt="Resume" /></a>
 </p>
 
 <p align="center">
@@ -232,10 +232,8 @@ const ayush = {
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"
+    src="./footer-banner.svg"
     width="100%"
     alt="Footer Banner"
   />
 </p>
-
-
