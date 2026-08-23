@@ -84,7 +84,7 @@ const ayush = {
 | ⚙️ Backend | ![](https://skillicons.dev/icons?i=nodejs,express) |
 | 🗄️ Database | ![](https://skillicons.dev/icons?i=mongodb,postgres,prisma) |
 | ☁️ Cloud / Tools | ![](https://skillicons.dev/icons?i=aws,git,github,docker,postman) |
-| 🤖 AI-Assisted Dev | ![](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white) |
+| 🤖 AI-Assisted Dev | <img src="./claude-icon.svg" width="48" height="48" alt="Claude"/> <img src="./cursor-icon.svg" width="48" height="48" alt="Cursor"/> |
 
 </div>
 
