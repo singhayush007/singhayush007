@@ -50,9 +50,9 @@ Theme       : Dark-terminal-green
 | # | Repo | Stack | What it does |
 |---|------|-------|--------------|
 | 1 | **[Formify.ai](https://ai-fullstack-form-generator.vercel.app/)** | Next.js, Supabase, Groq, Clerk, Razorpay | AI form builder — turns plain English into production-ready forms. |
-| 2 | **[Quick GPT](https://github.com/singhayush007/QUICK_GPT)** | React, Node.js, Gemini API, Razorpay | AI content SaaS — Gemini-powered generation (20% lower latency), credit-based billing via Razorpay webhooks, rate-limited APIs. |
-| 3 | **[Resume.](https://github.com/singhayush007/RESUME_BUILDER)** | React, Node.js, ImageKit, MongoDB | Live-preview resume editor with ImageKit background removal/CDN and MongoDB-indexed templates. |
-| 4 | **[Prescripto](https://github.com/singhayush007/PRESCRIPTO)** | React, Node.js, Express, MongoDB, Razorpay | Healthcare portal with patient/doctor/admin RBAC, dual Stripe & Razorpay payments, 40% faster queries. |
+| 2 | **[Quick GPT](https://github.com/singhayush007/QUICK_GPT)** | React, Node.js, Gemini API, Razorpay | AI content SaaS powered by Google Gemini API, cutting prompt response latency by **20%**; credit-based billing via Razorpay webhooks with rate-limited APIs. |
+| 3 | **[Resume.](https://github.com/singhayush007/RESUME_BUILDER)** | React, Node.js, ImageKit, MongoDB | Live-preview resume editor with **ImageKit** background removal/CDN and **MongoDB-indexed** templates for faster retrieval. |
+| 4 | **[Prescripto](https://github.com/singhayush007/PRESCRIPTO)** | React, Node.js, Express, MongoDB, Razorpay | Healthcare portal with patient/doctor/admin **RBAC**, dual Stripe & Razorpay payments, and **40%** faster queries via schema design + caching. |
 
 ---
 
@@ -62,20 +62,14 @@ Theme       : Dark-terminal-green
 **Remote** · `Jan 2026 – Present`
 - Shipped an MVP end-to-end from Figma to production-ready React components.
 - Integrated REST APIs with JWT auth, adding error boundaries and loading states.
-- Cut frontend load time 35% via lazy loading and code-splitting.
+- Cut frontend load time by **35%** via lazy loading and code-splitting.
 - Built a reusable component library adopted across the product.
 
 ### Full Stack Developer · Uncodemy
 **Remote** · `Apr 2025 – Nov 2025`
-- Migrated the legacy codebase to Next.js, cutting page load times 25% and improving SEO ranking.
-- Engineered scalable REST APIs with Redis caching, speeding up data retrieval on high-traffic endpoints.
-- Set up CI/CD pipelines with GitHub Actions in an Agile team, cutting deployment time 40%.
-
-### Full Stack Developer · PearlThoughts
-**Remote** · `Jul 2024 – Dec 2024`
-- Led end-to-end development of Prescripto, a doctor-patient management system on the MERN stack.
-- Implemented JWT auth and Role-Based Access Control (RBAC) to secure sensitive patient data.
-- Optimized frontend rendering and API response structures, cutting user bounce rate 12%.
+- Migrated legacy codebase to Next.js, resulting in a **25% reduction** in page load times and improved SEO ranking.
+- Engineered scalable RESTful APIs and implemented Redis caching, optimizing data retrieval speed for high-traffic endpoints.
+- Collaborated in an Agile environment to set up **CI/CD pipelines** using GitHub Actions, reducing deployment time by **40%**.
 
 ---
 
