@@ -50,9 +50,9 @@ Theme       : Dark-terminal-green
 | # | Repo | Stack | What it does |
 |---|------|-------|--------------|
 | 1 | **[Formify.ai](https://ai-fullstack-form-generator.vercel.app/)** | Next.js, Supabase, Groq, Clerk, Razorpay | AI form builder — turns plain English into production-ready forms. |
-| 2 | **[Quick GPT](https://github.com/singhayush007/QUICK_GPT)** | React, Node.js, Gemini API, Razorpay | AI content SaaS powered by Google Gemini API, cutting prompt response latency by **20%**; credit-based billing via Razorpay webhooks with rate-limited APIs. |
-| 3 | **[Resume.](https://github.com/singhayush007/RESUME_BUILDER)** | React, Node.js, ImageKit, MongoDB | Live-preview resume editor with **ImageKit** background removal/CDN and **MongoDB-indexed** templates for faster retrieval. |
-| 4 | **[Prescripto](https://github.com/singhayush007/PRESCRIPTO)** | React, Node.js, Express, MongoDB, Razorpay | Healthcare portal with patient/doctor/admin **RBAC**, dual Stripe & Razorpay payments, and **40%** faster queries via schema design + caching. |
+| 2 | **[Quick GPT](https://github.com/singhayush007/QUICK_GPT)** | React, Node.js, Express, MongoDB, Gemini API, ImageKit, Razorpay | AI chatbot with **Gemini**-powered text (OpenRouter fallback) and **ImageKit**-powered image generation, JWT auth, credit-based usage, and **Razorpay** payments with webhook handling. |
+| 3 | **[Resume.](https://github.com/singhayush007/RESUME_BUILDER)** | React, Node.js, Express, MongoDB, Gemini API, ImageKit | AI resume builder with live preview & shareable links, **Gemini**-powered content optimization, multiple templates, and **ImageKit** image upload with background removal. |
+| 4 | **[Prescripto](https://github.com/singhayush007/PRESCRIPTO)** | React, Node.js, Express, MongoDB, Razorpay, Stripe, Cloudinary | Doctor-appointment platform with patient/doctor/admin **RBAC**, booking & rescheduling, dual **Razorpay/Stripe** payments, a doctor earnings dashboard, and **Cloudinary** image uploads. |
 
 ---
 
