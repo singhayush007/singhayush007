@@ -8,19 +8,19 @@
 
 <pre>
 ╔══════════════════════════════════════════════════════════════════════════╗
-║  <b>AYUSH</b>@<b>SINGH</b>  ~  <span>Full Stack & GenAI Developer</span>                            ║
+║  <b>AYUSH</b>@<b>SINGH</b>  ~  Full Stack & GenAI Developer                            ║
 ╠══════════════════════════════════════════════════════════════════════════╣
 ║  $ whoami                                                                ║
 ║  > Full Stack & GenAI Developer -- React, Next.js, Node.js + GenAI       ║
-║  > B.Tech, Electronics & Communication Engineering                      ║
-║  > Building AI-powered SaaS: form builders, chatbots, resume tools      ║
-║  > Open to full-stack / GenAI roles                                     ║
+║  > B.Tech, Electronics & Communication Engineering -- PTU                ║
+║  > Building AI-powered SaaS: form builders, chatbots, resume tools       ║
+║  > Open to full-stack / GenAI roles                                      ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 </pre>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ayushsinghfullstackportfolio.vercel.app-33ff00?style=flat&logo=vercel&logoColor=black)](https://ayushsinghfullstackportfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-singhayush007-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/singhayush007/)
-[![X](https://img.shields.io/badge/X-@xayuxh-000000?style=flat&logo=x)](https://x.com/xayuxh)
+[![X](https://img.shields.io/badge/-@xayuxh-000000?style=flat&logo=x&logoColor=white)](https://x.com/xayuxh)
 [![Resume](https://img.shields.io/badge/Resume-View-ff6600?style=flat&logo=readdotcv&logoColor=white)](https://ayushsinghfullstackportfolio.vercel.app/resume/resume.pdf)
 
 </div>
@@ -50,9 +50,9 @@ Theme       : Dark-terminal-green
 | # | Repo | Stack | What it does |
 |---|------|-------|--------------|
 | 1 | **[Formify.ai](https://ai-fullstack-form-generator.vercel.app/)** | Next.js, Supabase, Groq, Clerk, Razorpay | AI form builder — turns plain English into production-ready forms. |
-| 2 | **[Quick GPT](https://github.com/singhayush007/QUICK_GPT)** | MERN, Gemini, ImageKit, Razorpay | Conversational AI chatbot with image generation and payments. |
-| 3 | **[Resume.](https://github.com/singhayush007/RESUME_BUILDER)** | MERN | AI-powered resume builder with live preview and customizable templates. |
-| 4 | **[Prescripto](https://github.com/singhayush007/PRESCRIPTO)** | MERN | Appointment booking platform — patient, doctor & admin auth levels. |
+| 2 | **[Quick GPT](https://github.com/singhayush007/QUICK_GPT)** | React, Node.js, Gemini API, Razorpay | AI content SaaS — Gemini-powered generation (20% lower latency), credit-based billing via Razorpay webhooks, rate-limited APIs. |
+| 3 | **[Resume.](https://github.com/singhayush007/RESUME_BUILDER)** | React, Node.js, ImageKit, MongoDB | Live-preview resume editor with ImageKit background removal/CDN and MongoDB-indexed templates. |
+| 4 | **[Prescripto](https://github.com/singhayush007/PRESCRIPTO)** | React, Node.js, Express, MongoDB, Razorpay | Healthcare portal with patient/doctor/admin RBAC, dual Stripe & Razorpay payments, 40% faster queries. |
 
 ---
 
@@ -65,12 +65,17 @@ Theme       : Dark-terminal-green
 - Cut frontend load time 35% via lazy loading and code-splitting.
 - Built a reusable component library adopted across the product.
 
-### Software Trainee · Uncodemy
-**Remote** · `Apr 2025 – Dec 2025`
-- Delivered 3+ full-stack MERN apps, schema design through API integration.
-- Built REST APIs with JWT auth for registration, login and protected routes.
-- Shipped a capstone e-commerce app with product listings, cart and auth.
-- Configured Node.js/Express + MongoDB Atlas backends end-to-end.
+### Full Stack Developer · Uncodemy
+**Remote** · `Apr 2025 – Nov 2025`
+- Migrated the legacy codebase to Next.js, cutting page load times 25% and improving SEO ranking.
+- Engineered scalable REST APIs with Redis caching, speeding up data retrieval on high-traffic endpoints.
+- Set up CI/CD pipelines with GitHub Actions in an Agile team, cutting deployment time 40%.
+
+### Full Stack Developer · PearlThoughts
+**Remote** · `Jul 2024 – Dec 2024`
+- Led end-to-end development of Prescripto, a doctor-patient management system on the MERN stack.
+- Implemented JWT auth and Role-Based Access Control (RBAC) to secure sensitive patient data.
+- Optimized frontend rendering and API response structures, cutting user bounce rate 12%.
 
 ---
 
@@ -106,5 +111,3 @@ $ echo "Thanks for stopping by."
 $ exit
 </pre>
 </div>
-
-
