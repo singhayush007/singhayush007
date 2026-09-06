@@ -8,11 +8,11 @@
 
 <pre>
 ╔══════════════════════════════════════════════════════════════════════════╗
-║  <b>AYUSH</b>@<b>SINGH</b>  ~  Full Stack & GenAI Developer                            ║
+║  <b>AYUSH</b>@<b>SINGH</b>  ~  Full Stack & GenAI Developer  ~  PTU                    ║
 ╠══════════════════════════════════════════════════════════════════════════╣
 ║  $ whoami                                                                ║
 ║  > Full Stack & GenAI Developer -- React, Next.js, Node.js + GenAI       ║
-║  > B.Tech, Electronics & Communication Engineering -- PTU                ║
+║  > B.Tech, Electronics & Communication Engineering                       ║
 ║  > Building AI-powered SaaS: form builders, chatbots, resume tools       ║
 ║  > Open to full-stack / GenAI roles                                      ║
 ╚══════════════════════════════════════════════════════════════════════════╝
