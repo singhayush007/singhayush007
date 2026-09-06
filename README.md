@@ -1,243 +1,60 @@
+<h1 align="center">Ayush Singh</h1>
+
 <p align="center">
-  <img
-    src="./header-banner.svg"
-    width="100%"
-    alt="Header Banner"
-  />
+  Full Stack & GenAI Developer — React, Next.js, Node.js
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+with+React%2C+Next.js+%26+Node.js;Shipping+GenAI-powered+products;Turning+plain+English+into+production+code;Open+to+full-stack+%2F+GenAI+roles+%F0%9F%9A%80&font=Fira%20Code&center=true&width=560&height=45&color=A374FF&vCenter=true&size=21" alt="Typing SVG" />
+  <a href="https://ayushsinghfullstackportfolio.vercel.app/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/singhayush007/">LinkedIn</a> ·
+  <a href="mailto:ayushfullstack@gmail.com">Email</a> ·
+  <a href="https://x.com/xayuxh">X</a> ·
+  <a href="https://ayushsinghfullstackportfolio.vercel.app/resume/resume.pdf">Resume</a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=singhayush007&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/singhayush007?label=Followers&style=flat-square&color=blueviolet" alt="Followers" />
-  <img src="https://img.shields.io/badge/Open%20to-Work-success?style=flat-square" alt="Open to Work" />
-  <a href="https://ayushsinghfullstackportfolio.vercel.app/resume/resume.pdf"><img src="https://img.shields.io/badge/Resume-View-orange?style=flat-square&logo=readdotcv&logoColor=white" alt="Resume" /></a>
-</p>
+<br>
 
-<p align="center">
-  <a href="https://ayushsinghfullstackportfolio.vercel.app/"><b>🌐 Portfolio</b></a> ·
-  <a href="https://www.linkedin.com/in/singhayush007/"><b>💼 LinkedIn</b></a> ·
-  <a href="mailto:ayushfullstack@gmail.com"><b>📧 Email</b></a> ·
-  <a href="https://x.com/xayuxh"><b>🐦 X (Twitter)</b></a>
-</p>
+I build web applications with React, Next.js and Node.js, and layer generative AI on top of them — form builders, chat products, resume tools. B.Tech in Electronics & Communication Engineering. Currently exploring system design and cloud/DevOps.
 
----
+**Open to full-stack / GenAI roles.**
 
-## 🧑🏼‍💻 About Me
+<br>
 
-```js
-const ayush = {
-  role: "Full Stack & GenAI Developer",
-  location: "India 🇮🇳",
-  education: "B.Tech in Electronics & Communication Engineering",
+## Experience
 
-  focus: "Building web apps with React, Next.js, Node.js — and Generative AI on top",
-  mission: "Building intelligent solutions and solving real problems",
+**Software Developer** · Torqis Horizons · Jan 2026 – Present · Remote
+Shipped an MVP end-to-end from Figma to production React, integrated JWT-secured REST APIs, cut frontend load time by 35% via lazy loading and code-splitting, and built a shared component library used across the product.
 
-  currentlyBuilding: "AI-powered SaaS products (forms, chat, resumes)",
-  currentlyLearning: ["System Design", "Cloud & DevOps"],
+**Software Trainee** · Uncodemy · Apr 2025 – Dec 2025 · Remote
+Delivered 3+ full-stack MERN apps over 9 months — schema design through API integration — including a capstone e-commerce app with cart management and JWT-based auth, built on Express, MongoDB Atlas and component-based React.
 
-  funFact: "I ship side projects faster than I finish reading about them 😅",
-};
-```
+<br>
 
----
+## Stack
 
-## 💼 Experience
+**Frontend** — JavaScript, TypeScript, React, Next.js, Tailwind CSS, Figma
+**Backend** — Node.js, Express
+**Database** — MongoDB, PostgreSQL, Prisma
+**Tools** — AWS, Docker, Git, Postman
+**AI-assisted dev** — Claude, Cursor
 
-<details>
-<summary><b>Software Developer @ Torqis Horizons</b> — Jan 2026 – Present · Remote</summary>
-<br/>
+<br>
 
-- Shipped MVP UI end-to-end from Figma designs to production-ready React components, owning the full frontend delivery.
-- Integrated RESTful APIs with JWT-based authentication, implementing error boundaries and loading states for a seamless user experience.
-- Reduced frontend load time by 35% through lazy loading and code-splitting strategies, improving Core Web Vitals scores.
-- Built a scalable reusable component library, eliminating redundant code and accelerating feature delivery across the product.
-- Implemented responsive, mobile-first layouts across all key screens, ensuring consistent UX across browsers and devices.
+## Projects
 
-</details>
+**[Formify.ai](https://ai-fullstack-form-generator.vercel.app/)**
+AI form builder that turns plain English into production-ready forms. Next.js, TypeScript, Supabase, Groq, Clerk, Razorpay.
 
-<details>
-<summary><b>Software Trainee @ Uncodemy</b> — Apr 2025 – Dec 2025 · Remote</summary>
-<br/>
+**[Quick GPT](https://quickgptreact.vercel.app/)** · [source](https://github.com/singhayush007/QUICK_GPT)
+Conversational AI chatbot with image generation and payments. MERN, Gemini, ImageKit, Razorpay.
 
-- Delivered 3+ full-stack MERN applications over 9 months, covering end-to-end development from schema design to API integration.
-- Built RESTful APIs with JWT authentication, implementing secure user registration, login, and protected route handling.
-- Developed a capstone e-commerce app featuring product listings, cart management, and user authentication as the program's final project.
-- Implemented component-based React architecture and Git branching workflows across all projects for maintainable, scalable codebases.
-- Configured Node.js/Express backends with MongoDB Atlas, gaining hands-on experience with full project lifecycle management.
+**[Resume.](https://airesumebuilderreact.vercel.app/)** · [source](https://github.com/singhayush007/RESUME_BUILDER)
+AI-assisted resume builder with live preview and template customization. MERN stack.
 
-</details>
+**[Prescripto](https://prescriptofullstack.vercel.app/)** · [source](https://github.com/singhayush007/PRESCRIPTO)
+Doctor appointment booking platform with patient, doctor and admin roles. MERN stack.
 
----
+<br>
 
-## 🧰 Tech Stack & Tools
+<p align="center"><sub><a href="https://github.com/singhayush007">github.com/singhayush007</a></sub></p>
 
-<div align="center">
-
-| Category | Technologies |
-|--------|--------------|
-| 🧩 Frontend | ![](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css,figma) |
-| ⚙️ Backend | ![](https://skillicons.dev/icons?i=nodejs,express) |
-| 🗄️ Database | ![](https://skillicons.dev/icons?i=mongodb,postgres,prisma) |
-| ☁️ Cloud / Tools | ![](https://skillicons.dev/icons?i=aws,git,github,docker,postman) |
-| 🤖 AI-Assisted Dev | <img src="./claude-icon.svg" width="48" height="48" alt="Claude"/> <img src="./cursor-icon.svg" width="48" height="48" alt="Cursor"/> |
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧩 FORMIFY.AI</h3>
-      AI-powered Form Builder SaaS that generates complete, production-ready forms in seconds from plain English.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Groq_AI-F55036?style=flat-square&logo=groq&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white"/>
-      <br/><br/>
-      <a href="https://ai-fullstack-form-generator.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💬 QUICK GPT</h3>
-      Full-stack conversational AI chatbot built with the MERN stack, integrated with Gemini, ImageKit, and Razorpay.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-      <br/><br/>
-      <a href="https://quickgptreact.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-      <a href="https://github.com/singhayush007/QUICK_GPT"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📄 RESUME.</h3>
-      Full-featured AI-powered Resume Builder (MERN) with live preview, AI-driven optimization, and customizable templates.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-      <br/><br/>
-      <a href="https://airesumebuilderreact.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-      <a href="https://github.com/singhayush007/RESUME_BUILDER"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🩺 PRESCRIPTO</h3>
-      Full-stack MERN application for booking doctor appointments with 3-level authentication (Patient, Doctor, Admin).
-      <br/><br/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-      <br/><br/>
-      <a href="https://prescriptofullstack.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-      <a href="https://github.com/singhayush007/PRESCRIPTO"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Insights
-
-<p align="center">
-  <img
-    height="165em"
-    src="./github-stats.svg"
-    alt="GitHub Stats"
-  />
-  <img
-    height="165em"
-    src="./top-langs.svg"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=singhayush007&theme=radical&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="./github-trophies.svg"
-    alt="GitHub Trophies"
-  />
-</p>
-
-<!--
-  🐍 Contribution snake — enable with a GitHub Action (Platane/snk), then uncomment:
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/singhayush007/singhayush007/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  </p>
--->
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://ayushsinghfullstackportfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website" />
-  </a>
-  <a href="https://www.linkedin.com/in/singhayush007/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ayushfullstack@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://x.com/xayuxh">
-    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
-  </a>
-</p>
-
----
-
-<h3 align="center">💭 Quote of the Day</h3>
-
-<p align="center">
-  <img
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
-    alt="Quote of the Day"
-  />
-</p>
-
-<h3 align="center">😄 Joke of the Day</h3>
-
-<p align="center">
-  <img
-    src="https://readme-jokes.vercel.app/api?theme=radical"
-    alt="Dev Joke"
-  />
-</p>
-
----
-
-<p align="center">
-  <b>⭐️ From <a href="https://github.com/singhayush007">Ayush Singh</a> — Keep Learning 🚀 Keep Building!</b>
-</p>
-
-<p align="center">
-  <img
-    src="./footer-banner.svg"
-    width="100%"
-    alt="Footer Banner"
-  />
-</p>
