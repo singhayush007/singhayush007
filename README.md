@@ -58,18 +58,22 @@ Theme       : Dark-terminal-green
 
 ## 💼 `~$ cat experience.md`
 
-### Software Developer · Torqis Horizons
+### Software Developer (Full Stack) · Torqis Horizons
 **Remote** · `Jan 2026 – Present`
-- Shipped an MVP end-to-end from Figma to production-ready React components.
-- Integrated REST APIs with JWT auth, adding error boundaries and loading states.
-- Cut frontend load time by **35%** via lazy loading and code-splitting.
-- Built a reusable component library adopted across the product.
+*Stack: React.js, TanStack Query, Zustand, React Hook Form, Zod, Recharts, Tailwind CSS, Radix UI, shadcn, Sentry*
+- Authored **1,100+ commits** (~27% of total commit activity), created **400+ TypeScript/React files**, and contributed **50,000+ lines of code** across three production Next.js/React apps — customer storefront, vendor portal, admin panel.
+- Built the customer-facing storefront — catalog, cart, checkout, wishlist, order management, Google SSO — using **React.js** with **TanStack Query** and **Zustand**.
+- Built vendor portal features (onboarding, bulk product upload, order & payment management, marketing tools) with forms powered by **React Hook Form + Zod**.
+- Contributed to the admin panel — vendor management, order/refund/return workflows, inventory, risk & blacklist controls, audit logs, analytics dashboards with **Recharts**.
+- Set up **Sentry**-based error monitoring for production stability across the platform.
 
-### Full Stack Developer · Uncodemy
-**Remote** · `Apr 2025 – Nov 2025`
-- Migrated legacy codebase to Next.js, resulting in a **25% reduction** in page load times and improved SEO ranking.
-- Engineered scalable RESTful APIs and implemented Redis caching, optimizing data retrieval speed for high-traffic endpoints.
-- Collaborated in an Agile environment to set up **CI/CD pipelines** using GitHub Actions, reducing deployment time by **40%**.
+### Software Trainee (Full Stack) · Uncodemy
+**Remote** · `Jan 2025 – Dec 2025`
+*Stack: React.js, Node.js, Express.js, MongoDB, Git*
+- Developed and maintained full-stack features using **React.js**, **Node.js**, **Express.js** and **MongoDB** — frontend UI through backend API.
+- Built RESTful APIs with Express.js, integrated with MongoDB for CRUD operations, improving data handling efficiency.
+- Implemented responsive, reusable React components, improving UI consistency and cutting dev time for new features.
+- Collaborated on debugging, code reviews, and performance optimization throughout the internship.
 
 ---
 
