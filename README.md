@@ -60,7 +60,9 @@ Theme       : Dark-terminal-green
 
 ### Software Developer (Full Stack) · Torqis Horizons
 `Jan 2026 – Present` · **Remote**
+
 *Stack: React.js, TanStack Query, Zustand, React Hook Form, Zod, Recharts, Tailwind CSS, Radix UI, shadcn, Sentry*
+
 - Authored **1,100+ commits** (~27% of total commit activity), created **400+ TypeScript/React files**, and contributed **50,000+ lines of code** across three production Next.js/React apps — customer storefront, vendor portal, admin panel.
 - Built the customer-facing storefront — catalog, cart, checkout, wishlist, order management, Google SSO — using **React.js** with **TanStack Query** and **Zustand**.
 - Built vendor portal features (onboarding, bulk product upload, order & payment management, marketing tools) with forms powered by **React Hook Form + Zod**.
@@ -69,11 +71,14 @@ Theme       : Dark-terminal-green
 
 ### Software Trainee (Full Stack) · Uncodemy
 `Jan 2025 – Dec 2025` · **Remote**
+
 *Stack: React.js, Node.js, Express.js, MongoDB, Git*
+
 - Developed and maintained full-stack features using **React.js**, **Node.js**, **Express.js** and **MongoDB** — frontend UI through backend API.
 - Built RESTful APIs with Express.js, integrated with MongoDB for CRUD operations, improving data handling efficiency.
 - Implemented responsive, reusable React components, improving UI consistency and cutting dev time for new features.
 - Collaborated on debugging, code reviews, and performance optimization throughout the internship.
+- Gained hands-on experience with the MERN stack, Git version control, and agile development workflows.
 
 ---
 
