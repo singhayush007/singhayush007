@@ -59,7 +59,7 @@ Theme       : Dark-terminal-green
 ## 💼 `~$ cat experience.md`
 
 ### Software Developer (Full Stack) · Torqis Horizons
-**Remote** · `Jan 2026 – Present`
+`Jan 2026 – Present` · **Remote**
 *Stack: React.js, TanStack Query, Zustand, React Hook Form, Zod, Recharts, Tailwind CSS, Radix UI, shadcn, Sentry*
 - Authored **1,100+ commits** (~27% of total commit activity), created **400+ TypeScript/React files**, and contributed **50,000+ lines of code** across three production Next.js/React apps — customer storefront, vendor portal, admin panel.
 - Built the customer-facing storefront — catalog, cart, checkout, wishlist, order management, Google SSO — using **React.js** with **TanStack Query** and **Zustand**.
@@ -68,7 +68,7 @@ Theme       : Dark-terminal-green
 - Set up **Sentry**-based error monitoring for production stability across the platform.
 
 ### Software Trainee (Full Stack) · Uncodemy
-**Remote** · `Jan 2025 – Dec 2025`
+`Jan 2025 – Dec 2025` · **Remote**
 *Stack: React.js, Node.js, Express.js, MongoDB, Git*
 - Developed and maintained full-stack features using **React.js**, **Node.js**, **Express.js** and **MongoDB** — frontend UI through backend API.
 - Built RESTful APIs with Express.js, integrated with MongoDB for CRUD operations, improving data handling efficiency.
