@@ -45,7 +45,7 @@ Theme       : Dark-terminal-green
 
 ## 📂 `~$ ls -la repos`
 
-> Shipped, production-deployed projects. Click a repo to see the source.
+> Selected full-stack projects. Click a repo to see the source.
 
 | # | Repo | Stack | What it does |
 |---|------|-------|--------------|
@@ -53,6 +53,10 @@ Theme       : Dark-terminal-green
 | 2 | **[Quick GPT](https://github.com/singhayush007/QUICK_GPT)** | React, Node.js, Express, MongoDB, Gemini API, ImageKit, Razorpay | AI chatbot with **Gemini**-powered text (OpenRouter fallback) and **ImageKit**-powered image generation, JWT auth, credit-based usage, and **Razorpay** payments with webhook handling. |
 | 3 | **[Resume.](https://github.com/singhayush007/RESUME_BUILDER)** | React, Node.js, Express, MongoDB, Gemini API, ImageKit | AI resume builder with live preview & shareable links, **Gemini**-powered content optimization, multiple templates, and **ImageKit** image upload with background removal. |
 | 4 | **[Prescripto](https://github.com/singhayush007/PRESCRIPTO)** | React, Node.js, Express, MongoDB, Razorpay, Stripe, Cloudinary | Doctor-appointment platform with patient/doctor/admin **RBAC**, booking & rescheduling, dual **Razorpay/Stripe** payments, a doctor earnings dashboard, and **Cloudinary** image uploads. |
+| 5 | **[GoCart](https://github.com/singhayush007/GO_CART)** | Next.js, Prisma, PostgreSQL, Clerk, ImageKit, Razorpay | Multi-vendor marketplace — seller storefronts, **Razorpay**/COD checkout, coupons, **Gemini**-assisted product descriptions, and an admin panel. |
+| 6 | **[PingUp](https://github.com/singhayush007/PING_UP)** | React, Node.js, Express, MongoDB, Clerk, ImageKit, Inngest | Social platform with posts, 24-hour stories, connections/follows, **SSE** real-time messaging, and **Inngest** background jobs. |
+| 7 | **[QuickAI](https://github.com/singhayush007/QUICKAI)** | React, Node.js, Express, PostgreSQL, Clerk, Gemini, ClipDrop, Cloudinary | AI tools suite — article/blog-title generation, text-to-image, background & object removal, resume review — with free/premium plans. |
+| 8 | **[HireHub](https://github.com/singhayush007/HIREHUB)** | React, Node.js, Express, MongoDB, Clerk, Cloudinary | Job portal — Clerk auth for seekers, JWT auth for recruiters, job search/filter, **Cloudinary** resume uploads, application tracking. |
 
 ---
 
@@ -86,12 +90,14 @@ Theme       : Dark-terminal-green
 
 ```json
 {
-  "languages": ["JavaScript", "TypeScript"],
-  "frontend": ["React", "Next.js", "Tailwind CSS", "HTML", "CSS", "Figma"],
-  "backend": ["Node.js", "Express", "REST APIs"],
-  "databases": ["MongoDB", "PostgreSQL", "Prisma"],
-  "ai_tools": ["Groq", "Gemini", "Claude", "Cursor"],
-  "infra": ["Git", "GitHub", "Docker", "AWS", "Postman", "Jira"]
+  "languages": ["JavaScript", "TypeScript", "Python"],
+  "frontend": ["React", "Next.js", "Tailwind CSS", "Radix UI", "shadcn/ui", "Figma"],
+  "state_and_forms": ["TanStack Query", "Zustand", "React Hook Form", "Zod"],
+  "backend": ["Node.js", "Express", "REST APIs", "WebSockets"],
+  "databases": ["MongoDB", "PostgreSQL", "Prisma", "Drizzle"],
+  "ai_tools": ["Gemini", "Groq", "OpenAI", "Claude", "Cursor"],
+  "payments_media": ["Razorpay", "Stripe", "Cloudinary", "ImageKit"],
+  "infra": ["Git", "GitHub", "Docker", "AWS", "Sentry", "Postman", "Jira"]
 }
 ```
 
