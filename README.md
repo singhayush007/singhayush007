@@ -30,13 +30,16 @@
 ## 🖥️ `~$ status`
 
 ```bash
-$ neofetch --info ayush
+$ neofetch ayush
+
 OS          : Full Stack & GenAI Developer
-Kernel      : React · Next.js · Node.js · GenAI integrations
+Kernel      : React · Next.js · Node.js · GenAI
 Uptime      : 2025 -- Present
 Shell       : JavaScript · TypeScript
-WM          : React · Next.js · Tailwind CSS · Node.js · Express
-Resolution  : MongoDB · PostgreSQL · Prisma
+WM          : React · Next.js · Tailwind CSS
+Runtime     : Node.js · Express
+Database    : PostgreSQL · MongoDB
+ORM         : Prisma
 Location    : India
 Theme       : Dark-terminal-green
 ```
